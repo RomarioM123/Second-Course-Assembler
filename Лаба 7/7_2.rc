@@ -1,0 +1,8 @@
+#define IDR_MENU1 10000
+#define IDM_ 10001
+
+IDR_MENU1 MENU
+BEGIN
+  MENUITEM "tyiv",IDM_
+END
+

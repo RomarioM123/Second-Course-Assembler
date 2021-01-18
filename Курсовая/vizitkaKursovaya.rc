@@ -1,0 +1,11 @@
+#define IDR_MENU1 10000
+#define IDM_File 10001
+#define IDM_Help 10003
+#define IDM_Save 10002
+#define IDM_MB 10003
+#define IDM_Info 10004
+
+#include "C:/masm64/include64/Resource.h"
+
+10 ICON DISCARDABLE "myico.ico"
+

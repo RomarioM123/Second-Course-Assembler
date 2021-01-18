@@ -1,0 +1,4 @@
+#include "/masm64/include64/resource.h"
+
+10 ICON DISCARDABLE "myico.ico"
+
